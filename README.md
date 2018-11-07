@@ -1,4 +1,4 @@
-# sketch-patterns
+# figma-patterns
 A library of over 70 tileable patterns for Figma, and the file that created them.
 
 ![Hey, it's some patterns](https://raw.githubusercontent.com/skumando/figma-patterns/master/images/example.png)
